@@ -1,0 +1,6 @@
+"""
+Config modülü
+"""
+from .settings import SPEED_CONFIG
+
+__all__ = ['SPEED_CONFIG']
