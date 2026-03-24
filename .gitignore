@@ -1,1 +1,7 @@
 uploads/ 
+plates/
+*.mp4
+*.avi
+*.png
+*.jpg
+*.tar.gz
